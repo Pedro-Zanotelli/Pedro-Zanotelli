@@ -1,4 +1,4 @@
 ##Mais sobre mim
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Zanotellianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pedro-Zanotelli&show_icons=true&hide_border=true" />
